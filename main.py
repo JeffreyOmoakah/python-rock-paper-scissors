@@ -2,7 +2,7 @@
 import random
 
 # Create a list of possible choices for the game:
-possible_choices = ["Rock", "Scissors", "Paper"]  # Note: Corrected typo in "Scissors"
+possible_choices = ["Rock", "Scissors", "Paper"]
 
 # Prompt the user to enter their choice:
 user_choice = input("Choose Rock, Paper, or Scissors: ")
@@ -18,10 +18,10 @@ print("Computer choice: ", computer_choice)
 if user_choice == computer_choice:
     print("It's a tie!")
 elif user_choice == "Rock" and computer_choice == "Scissors":
-    print("You win!")  # Exclamation mark added for excitement
+    print("You win!") 
 elif user_choice == "Paper" and computer_choice == "Rock":
-    print("You win!")  # Exclamation mark added for excitement
+    print("You win!")
 elif user_choice == "Scissors" and computer_choice == "Paper":
-    print("You win!")  # Exclamation mark added for excitement
+    print("You win!") 
 else:
     print("Computer wins!")
