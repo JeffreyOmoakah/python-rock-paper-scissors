@@ -17,10 +17,11 @@ Clear win/loss/tie results: Instant feedback for immediate satisfaction or motiv
 ## Getting Started
 
 Clone this repository:
-git clone (https://github.com/JeffreyOmoakah/python-rock-paper-scissors.git)
+git clone:  https://github.com/JeffreyOmoakah/python-rock-paper-scissors.git)
 Use code with caution.
 Navigate to the project directory:
-cd https://github.com/JeffreyOmoakah/python-rock-paper-scissors.git
+cd 
+https://github.com/JeffreyOmoakah/python-rock-paper-scissors.git
 Use code with caution.
 Execute the game:
 python rps.py
